@@ -1,1 +1,2 @@
-django_test/__pycache__/
+/django_test/__pycache__/
+/db.sqlite3
